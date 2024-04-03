@@ -6,7 +6,7 @@ This chapter contains the basics of Python, such as Data handling.
 <br/> **Numpy**
 <br/> **Pandas**
 <br/>
-<br/>
+<br/>In the following parts, Matplotlib and Seaborn will be addressed because it is much easier to learn from the machine learning example.
 <br/>
 <br/>**Disclosure** 
 <br/>This work is based on the textbook "The Perfect Guide for Machine Learning with Python" written by Chulmin Kwon 
