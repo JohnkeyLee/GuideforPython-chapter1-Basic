@@ -1,6 +1,6 @@
 # GuideforPython-chapter1-Basic
 This chapter contains the basics of Python, such as Data handling. 
-<br/>It is crucial to improve your basic knowledge of data science. 
+<br/>It is crucial to improve your basic knowledge of data handling.
 <br/> This repository provides knowledge in three sections:
 <br/> **Basic** 
 <br/> **Numpy**
